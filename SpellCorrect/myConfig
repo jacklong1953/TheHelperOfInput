@@ -1,0 +1,6 @@
+myip       192.168.3.213                     
+myport     8888                                
+mydict     ../outLine/Dictionary.txt
+myindex    ../outLine/IndexTable.txt 
+mycache    ./cache
+                                                   
